@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <component name="RemoteServers">
-    <remote-server name="Google App Engine" type="google-app-engine">
-      <configuration email="Rob@RobertOrr.net" />
-    </remote-server>
-  </component>
-</application>
-
