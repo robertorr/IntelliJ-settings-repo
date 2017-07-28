@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="robertjorr@mac.com" password="PUtNc,Fqs&quot;Rf35]q">
+        <option name="apiUrl" value="https://api.run.pivotal.io" />
+        <option name="domain" value="" />
+        <option name="organization" value="RobertOrr.net" />
+        <option name="space" value="development" />
+        <option name="trustSelfSignedCert" value="true" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
